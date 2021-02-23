@@ -9,8 +9,8 @@
 1. Open Anaconda Navigator
 2. Go to Environment menu
 3. Create a new environment 
-4. Open your environment terminal (click your new environment then press the *play* button '►'
-5. run this script perline
+4. Open your environment terminal (click your new environment then press the *play* button '►')
+5. run this script in the terminal
 ```
 python -m pip install --upgrade pip
 pip install numpy
