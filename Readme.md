@@ -43,8 +43,8 @@ Output
 
 ### Configure Interpreter
 **Select from Existing environment**
--[For VSCode](https://code.visualstudio.com/docs/python/environments)
--[For PyCharm] (https://docs.anaconda.com/anaconda/user-guide/tasks/pycharm) 
+- [For VSCode](https://code.visualstudio.com/docs/python/environments)
+- [For PyCharm] (https://docs.anaconda.com/anaconda/user-guide/tasks/pycharm) 
 
 ### For Mac
 not recommended
