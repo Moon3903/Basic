@@ -41,6 +41,11 @@ Output
 ```
 *note : example version of opencv
 
+### Configure Interpreter
+**Select from Existing environment**
+-[For VSCode](https://code.visualstudio.com/docs/python/environments)
+-[For PyCharm] (https://docs.anaconda.com/anaconda/user-guide/tasks/pycharm) 
+
 ### For Mac
 not recommended
 https://www.pyimagesearch.com/2018/08/17/install-opencv-4-on-macos/
