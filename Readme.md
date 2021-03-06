@@ -8,7 +8,7 @@
 ### Installing NumPy, Matplotlib, and OpenCV
 1. Open Anaconda Navigator
 2. Go to Environment menu
-3. Create a new environment 
+3. Create a new environment (chose python 3.7 / 3.6)
 4. Open your environment terminal (click your new environment then press the *play* button '►')
 5. run this script in the terminal
 ```
@@ -21,11 +21,11 @@ pip install opencv-python
 #### Check
 test your environment by running these code
 ```
-python3
+python
 ```
 Output Example:
 ```
-Python 3.6.9 (default, Oct  8 2020, 12:12:24) 
+Python 3.6.12 (default, Oct  8 2020, 12:12:24) 
 [GCC 8.4.0] on linux
 Type "help", "copyright", "credits" or "license" for more information.
 ```
